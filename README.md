@@ -93,7 +93,7 @@ To develop a flexible and adaptive AI model capable of human-like sensory integr
 ---
 
 ## 🔍 Project Structure
-
+<pre>
 /brain-inspired-bim/
 │
 ├── data/                  # Sample/preprocessed multimodal datasets
@@ -104,6 +104,7 @@ To develop a flexible and adaptive AI model capable of human-like sensory integr
 ├── docs/                  # Project documentation and figures
 ├── README.md              # You are here!
 └── LICENSE
+</pre>
 
 ---
 
