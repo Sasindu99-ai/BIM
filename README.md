@@ -135,5 +135,5 @@ Special thanks to my academic advisors, colleagues at the University of Peradeni
 ## 📬 Contact
 
 **Name:** WIJETHUNGA P.M.S.S.  
-**Email:** e22445@eng.pdn.ac.lk  
+**Email:** e22445@eng.pdn.ac.lk, sasindusulochana99@gmail.com  
 **Institution:** Department of Mechanical Engineering, University of Peradeniya
